@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544008709861",
+    "firebase_url": "https://catgame-7e7fa-default-rtdb.firebaseio.com",
+    "project_id": "catgame-7e7fa",
+    "storage_bucket": "catgame-7e7fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544008709861:android:2ea28e2439b452ba58d60c",
+        "android_client_info": {
+          "package_name": "com.example.androidlab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544008709861-r0q9k9k9uq8oki7ncc9ohu52q27s74nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gzNytUwRCatyYB37XcoU4N9kD5XA9lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544008709861-r0q9k9k9uq8oki7ncc9ohu52q27s74nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

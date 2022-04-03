@@ -28,4 +28,8 @@
 
 :white_check_mark: 4.	Реализовать максимальное соблюдение GuideLines плафтормы и аргументировать свой выбор
 
+##СКРИН:
+
+![image](https://user-images.githubusercontent.com/64751489/161448944-ea0a06c5-3d86-40ca-93ff-95dc2e4ac59d.png)
+
 
